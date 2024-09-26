@@ -1,11 +1,23 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #f0f0f0;
     color: #333;
     text-align: center;
+    box-shadow: 0px 4px 8px rgba(0,0,0,0.2);
     padding: 20px;
+}
+
+div{
+    display:flex;
+    text-align: center;
 }
 
 h1 {
     color: #df4b40;
+}
+
+h2{
+    font-size: 50px;
+    font-style: unset;
+    color:blueviolet;
 }
